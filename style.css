@@ -43,3 +43,32 @@ h4
     line-height: 2;
     margin: 0px;
 }
+.button2{
+    float: right;
+    }
+    
+    .button_1{
+    font-size: 20px;   
+    font-family: monospace;
+    }
+    
+    .footer{
+        font-size: 20px;
+        text-align: center;
+        box-shadow: 10px 10px 10px goldenrod;
+        bottom: 0;
+        position: center;
+        margin-bottom: 0px;
+        width: 100%;
+        background-color: aliceblue;
+       margin: 0px;
+      line-height: 3;
+
+    }
+
+    canvas{
+        background-size: cover;
+        background-position: center;
+        padding: 25px ;
+
+    }
